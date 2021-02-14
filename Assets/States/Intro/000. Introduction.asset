@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 000. Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to Office Escape!
+
+
+    In this choose your own adventure,
+    you will navigate your way out of an office. Press the corresponding number on
+    your keyboard to choose a selection. If at any point you realize this is dumb,
+    press Esc to quit. Don''t screw this up.
+
+
+    1. Start!
+
+    2. Start this way!
+
+    3.
+    Do nothing, but then Start!
+
+    Esc. Quit'
+  nextStates:
+  - {fileID: 11400000, guid: 9ca35b72ca22f1440a0c69d85a9d8a3c, type: 2}
+  - {fileID: 11400000, guid: 9ca35b72ca22f1440a0c69d85a9d8a3c, type: 2}
+  - {fileID: 11400000, guid: 9ca35b72ca22f1440a0c69d85a9d8a3c, type: 2}

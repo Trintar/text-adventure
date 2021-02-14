@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 6A What now
+  m_EditorClassIdentifier: 
+  storyText: '"Yes, now." You begin to stand up, then he speaks again, "Do it slowly."
+
+
+    Slowly
+    rising you peer above your cubicle wall.
+
+
+    "The elevator," says the voice
+    on the phone.
+
+
+    You turn your gaze to the elevator and see three men in suits
+    accompanied by several police officers speaking to one of your coworkers. They
+    are far enough away that you cannot quite make out who they are, but your coworker
+    has just pointed in the direction of your cubicle.
+
+
+    The men''s heads turn
+    in unison and look towards you.
+
+
+    1. Duck quickly. "Shit!"
+
+    2. Stay where
+    you are and try to see them more clearly.'
+  nextStates:
+  - {fileID: 11400000, guid: 686f4ed6a9dc75948b95f0f265052a8c, type: 2}
+  - {fileID: 0}

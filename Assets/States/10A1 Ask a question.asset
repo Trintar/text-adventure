@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 10A1 Ask a question
+  m_EditorClassIdentifier: 
+  storyText: 'You begin to ask a question, but quickly  realize it was a serious
+    mistake. Several footsteps converged on your cubicle, but the men heard your
+    voice in the nearby cubicle and turned to face you. One of the men steps towards
+    you and looks down at you seating on the ground, your back to the cubicle.
+
+
+    "Good
+    evening, Mr. Anderson. We have some questions for you, if you will join us."'
+  nextStates:
+  - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}

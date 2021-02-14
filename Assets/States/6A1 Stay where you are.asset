@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 6A1 Stay where you are
+  m_EditorClassIdentifier: 
+  storyText: 'You can almost hear him grinning through the phone.
+
+
+    "Stand up
+    and see for yourself."
+
+
+    1. "What? Now?"
+
+    2. "No way, they might see
+    me."'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}

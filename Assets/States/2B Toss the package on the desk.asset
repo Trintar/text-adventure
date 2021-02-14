@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 2B Toss the package on the desk
+  m_EditorClassIdentifier: 
+  storyText: 'The package is light and at first almost seems empty. Then you feel
+    a small
+
+    object inside the package, no more than a few inches long.
+
+
+    At
+    this point nothing can save your boredom and surely whatever is in this
+
+    package
+    is of no consequence to you. You toss it on the desk and turn your attention
+    back to your computer monitor.
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 6b09a9accb252974d84162a5017af861, type: 2}
