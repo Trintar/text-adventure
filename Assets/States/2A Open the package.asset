@@ -12,19 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
   m_Name: 2A Open the package
   m_EditorClassIdentifier: 
-  storyText: 'The package is light and at first almost seems empty. Then you feel
-    a small
+  storyText: 'The package is light and at first seems empty. Then you feel a small
 
-    object inside the package, no more than a few inches long.
-
-
-    Curiosity
-    easily overpowers your boredom. You rip the top off of the bubble-wrapped package
-    in a single motion and turn it over to dump the contents into your free hand.
-    A cell phone slides silently out of the package  and drops into your hand.
+    object
+    inside the package, no more than a few inches long.
 
 
-    1.
-    Continue.'
+    Curiosity easily overpowers
+    your boredom. You rip the top off of the package in a single motion and turn
+    it over to dump the contents into your free hand. A cell phone slides silently
+    out of the package  and drops into your hand.
+
+
+    1. Continue.'
   nextStates:
   - {fileID: 11400000, guid: 55c3424cfcfca814b8a81d6cc51dd78b, type: 2}
