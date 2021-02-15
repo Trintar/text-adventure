@@ -26,7 +26,6 @@ public class AdventureGame : MonoBehaviour
         ManageState();
 
         if (Input.GetKeyDown(KeyCode.Escape)) {
-            Debug.Log("escape!");
             Application.Quit();
         }
     }

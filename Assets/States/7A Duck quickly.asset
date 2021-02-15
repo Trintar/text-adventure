@@ -15,10 +15,24 @@ MonoBehaviour:
   storyText: '"Yes..." The man''s grin is even more apparent.
 
 
-    1. "What the
-    hell do they want from me?"
+    "What the hell
+    do they want from me?" you ask.
 
-    2 . TODO.'
+
+    "I don''t know, but if you don''t want
+    to find out, I suggest you get out of there."
+
+
+    The fear hits you and you
+    begin to run through all possible scenarios which could possibly result in this
+    situation. You dart around inside your cubicle, crouched, looking for some way
+    to get out of this situation.
+
+
+    1. "How?"
+
+    2. Wait in your cubicle to
+    see what the men want.'
   nextStates:
-  - {fileID: 11400000, guid: 6c42ffb33bcb32943ab7651a9e3e094a, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: d9f46707c89687c47a6987b97cf3ead3, type: 2}
+  - {fileID: 11400000, guid: 4da6819f4505e6a4d80fbf7129a6107c, type: 2}

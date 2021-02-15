@@ -26,4 +26,4 @@ MonoBehaviour:
     2. Ask a question.'
   nextStates:
   - {fileID: 11400000, guid: ed8b6267dd50f0a4d9927d43e1c352b4, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 5c2760243edebb1479217c70b7d9712f, type: 2}

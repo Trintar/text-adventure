@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: Caught in office
+  m_EditorClassIdentifier: 
+  storyText: 'You can''t handle going out onto the ledge like this. It''s just too
+    much. You''d rather take your chances with the men in suits.
+
+
+    As you have
+    just accepted this, the door slowly swings open and you see the three men in
+    suits walk in one after another.
+
+
+    "Mr. Anderson," says the man in front.
+    "We would like you to come with us for some questioning."
+
+
+    They bind your
+    hands and lead you downstairs. There you see a sweet motorcycle with a person
+    clad in black leather swear under their breath and drive off. The end.
+
+
+    1.
+    Main menu'
+  nextStates:
+  - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}

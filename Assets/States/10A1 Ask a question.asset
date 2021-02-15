@@ -15,10 +15,19 @@ MonoBehaviour:
   storyText: 'You begin to ask a question, but quickly  realize it was a serious
     mistake. Several footsteps converged on your cubicle, but the men heard your
     voice in the nearby cubicle and turned to face you. One of the men steps towards
-    you and looks down at you seating on the ground, your back to the cubicle.
+    you and looks down at you sitting on the ground, your back to the cubicle.
 
 
     "Good
-    evening, Mr. Anderson. We have some questions for you, if you will join us."'
+    evening, Mr. Anderson. We have some questions for you, if you will join us."
+
+
+    Then
+    they escort you outside and take you to a secluded area. They ask you some questions
+    about dishwashing detergent preferences and thank you for you time by presenting
+    you with a $5 Arby''s gift card.
+
+
+    1. Main Menu'
   nextStates:
   - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}

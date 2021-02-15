@@ -12,7 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
   m_Name: 11A Wait quietly
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Several seconds pass in silence. You can hear the men approaching your
+    cubicle and the shuffling of feet. You take a chance to peek and see two men
+    silently making eye contact with one another after looking into your empty cubicle.
+    They then wordless walk away in opposite directions, probably to look for you
+    elsewhere.
+
+    
+
+    The voice on the phone speaks again. "When I tell you,
+    go to the end of the row to the office at the end of the hall. Stay as low as
+    you can."
+
+    
+
+    1. Wait for the cue.
+
+    2. Go now. The coast is clear
+    and you cannot afford to wait.'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 622a7f9b802b2c24a9cf53b59b63652d, type: 2}
+  - {fileID: 11400000, guid: ad700d2fe753624498879762d922187a, type: 2}

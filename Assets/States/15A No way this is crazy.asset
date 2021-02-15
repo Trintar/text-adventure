@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 15A No way this is crazy
+  m_EditorClassIdentifier: 
+  storyText: '"There are two ways out of this building. One is that scaffold, the
+    other is in their custody. You take a chance either way, I leave it to you."
+    He hangs up the phone.
+
+
+    You stand there a moment, bewildered at the two
+    choices in front of you.
+
+
+    1. Go to the window.
+
+    2. Try to find another
+    way out.'
+  nextStates:
+  - {fileID: 11400000, guid: 2159ec4634739434d923a09318d80cb9, type: 2}
+  - {fileID: 11400000, guid: 112e94a1279ec8c4a9f70b85ad87f8a5, type: 2}

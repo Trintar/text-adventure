@@ -12,31 +12,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
   m_Name: 5B Ignored the phone
   m_EditorClassIdentifier: 
-  storyText: 'You become intensely aware of the noise coming from your cubicle, but
-    you have no interest in answering a phone that isn''t yours. You can hear a couple
-    coworkers in adjacent cubes scoffing at the noise, but you just play dumb.
-
-    
-
-    A
-    few moments later you hear several sets of footsteps approaching. You turn around
-    and see your supervisor flanked by two men in suits.
-
-    
-
-    "This is him,"
-    says your supervisor to the two men. They step forward immediately and stand
-    over you, their presence intimidating.Your supervisor seems a little apprehensive
-    at this sudden show of aggression and mutters something about needing to finish
-    a report. He walks away.
-
-    
-
-    The two men escort you out of the building
-    and then they kill you because you didn''t answer the phone, you fuck.
+  storyText: 'You become intensely aware of the ringing noise coming from your cubicle,
+    but you have no interest in answering a phone that isn''t yours. You can hear
+    a couple coworkers in adjacent cubes scoffing at the noise, but you just play
+    dumb.
 
 
-    1.
-    Main menu'
+    A few moments later you hear several sets of footsteps approaching.
+    You turn around and see three men in suits, flanked by a number of police officers.
+
+
+    One
+    of the men steps forward and stands over you, his presence quietly intimidating.
+
+
+    "Hello,
+    Mr. Anderson. I have some questions for you and I would like for you to join
+    us."
+
+
+    There was no hint of a question to his proposal and you find yourself
+    standing up at these words. The men escort you out of the building and then they
+    kill you because you didn''t answer the phone, you fuck.
+
+
+    1. Main menu'
   nextStates:
   - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}

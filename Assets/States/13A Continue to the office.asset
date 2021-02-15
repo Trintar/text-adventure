@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 13A Continue to the office
+  m_EditorClassIdentifier: 
+  storyText: 'You continue moving through the rows of cubicles and make it to the
+    office the voice on the phone was talking about. You quietly open the door and,
+    after a quick glance around to make sure you were not followed or seen, step
+    inside and close the door.
+
+
+    "Good," says the voice immediately. "Now, outside
+    there is a scaffold." You look to your right and see the scaffold hanging outside,
+    level with the office window.
+
+
+    1. "How do you know all of this?"'
+  nextStates:
+  - {fileID: 11400000, guid: 75e33237e3d9678418eb6713635a3fc5, type: 2}

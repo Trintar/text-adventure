@@ -12,19 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
   m_Name: 4A Answer the phone
   m_EditorClassIdentifier: 
-  storyText: 'You answer the call and press the phone to your face. Before you can
-    respond, a voice begins speaking to you immediately.
+  storyText: 'You answer the call and press the phone to your ear.
 
 
-    "I don''t know if
-    you''re ready to see what I have to show you, but unfortunately you and I have
-    run out of time. They are coming for you and I don''t know what they are going
-    to do."
+    "Hello?"
+    you ask.
 
 
-    1. "Who is coming for me?"
+    "I don''t know if you''re ready to see what I have to show you,"
+    says a voice immediately. It is deep and very articulate. There is a note of
+    urgency that can be heard.
 
-    2. "What do I need to do?"'
+
+    The voice continues, "But unfortunately you
+    and I have run out of time. They are coming for you and I don''t know what they
+    are going to do." It speaks these last several words with emphasis
+
+
+    1. "Who
+    is coming for me?"'
   nextStates:
   - {fileID: 11400000, guid: eaf1dd7d602580343a088040fb3ddf0d, type: 2}
-  - {fileID: 0}

@@ -12,17 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
   m_Name: 6A1 Stay where you are
   m_EditorClassIdentifier: 
-  storyText: 'You can almost hear him grinning through the phone.
+  storyText: 'You stay where you are, barely peering over the cubicle and watch as
+    the men in suits begin walking briskly towards your cubicle, not bothering to
+    take in any of their surroundings. You notice each of them wearing dark sunglasses
+    and their suits are identical.
 
+    
 
-    "Stand up
-    and see for yourself."
+    They must be some government agents,
+    you think to yourself.
 
+    
 
-    1. "What? Now?"
+    1. Duck back into your cubicle. "What the
+    hell do they want from me?"
 
-    2. "No way, they might see
-    me."'
+    2. Sit down and wait in your cubicle to see
+    what the men want.'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 686f4ed6a9dc75948b95f0f265052a8c, type: 2}
+  - {fileID: 11400000, guid: 595ed5cc98100c544b997383af29439a, type: 2}

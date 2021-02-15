@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 15B Hold my beer
+  m_EditorClassIdentifier: 
+  storyText: 'You have no desire to find out what those men want. Taking a deep breath,
+    you step up to the window and out onto the ledge of the building.
+
+
+    It is
+    at this point that you gain a better appreciation for how high this really is.
+    The wind billows around you and you nearly lose your footing. You may need both
+    hands free to continue.
+
+
+    1. Drop the phone.
+
+    2. Stay on the phone in
+    case you need more instructions.'
+  nextStates:
+  - {fileID: 11400000, guid: 03bef26551dde2f4f97e96ac92e52d51, type: 2}
+  - {fileID: 11400000, guid: 4d6d88aa2f8945f4fa6132221dde2bde, type: 2}

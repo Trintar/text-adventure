@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 12B Go now the coast is clear
+  m_EditorClassIdentifier: 
+  storyText: 'This person on the phone certainly seems to have your preservation
+    in mind, but there''s no way they know for certain when the coast is clear. You
+    saw the two men depart, and this is your chance to duck.
+
+    
+
+    You go
+    into a crouched position and crab walk out of the cubicle. Immediately to your
+    right, you see a police officer standing mere feet away, looking right at you.
+
+    
+
+    "He''s
+    here! I found him!" The officer reaches for the handcuffs on his belt.
+
+    
+
+    1.
+    Run in the opposite direction
+
+    2. Run into the officer in an attempt to
+    knock him down and run past him.'
+  nextStates:
+  - {fileID: 11400000, guid: 492cfea08eb4ff64fabee36217fd5266, type: 2}
+  - {fileID: 0}

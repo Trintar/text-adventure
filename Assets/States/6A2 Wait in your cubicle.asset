@@ -12,17 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
   m_Name: 6A2 Wait in your cubicle
   m_EditorClassIdentifier: 
-  storyText: 'You can almost hear him grinning through the phone.
+  storyText: 'You realize you have no idea who this man is on the phone. These government
+    agents approaching may just need to question you about someone you know and he
+    is trying to keep you from doing just that.
 
+    
 
-    "Stand up
-    and see for yourself."
+    You unconsciously lower
+    the phone from your ear while several seconds pass. You can hear the voice on
+    the phone speaking but cannot quite make out what it is saying.
 
+    
 
-    1. "What? Now?"
-
-    2. "No way, they might see
-    me."'
+    1.
+    Continue'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 4da6819f4505e6a4d80fbf7129a6107c, type: 2}

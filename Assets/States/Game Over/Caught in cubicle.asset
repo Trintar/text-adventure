@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: Caught in cubicle
+  m_EditorClassIdentifier: 
+  storyText: 'The men in suits reach your cubicle. Numerous police officers flank
+    them and prohibit any possible chance you would have of escaping now. The man
+    in the center steps towards you.
+
+
+    "Mr. Anderson, we have some questions
+    for you. We would like you to come with us."
+
+
+    You stand up and they cuff
+    your hands. They lead you outside and then kill you because you didn''t do what
+    you were supposed to do win.
+
+
+    1. Main menu'
+  nextStates:
+  - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}

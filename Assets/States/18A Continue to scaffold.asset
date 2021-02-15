@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
+  m_Name: 18A Continue to scaffold
+  m_EditorClassIdentifier: 
+  storyText: "You persevere and shimmy along the ledge and make it to the scaffold.
+    As instructed, you direct the scaffold to the roof.\n\nOnce you get to the roof,
+    you see a crowd of people. \n\n\"Surprise!\" they all yell in unison. Your friends
+    remembered your birthday! You spend the afternoon eating cake and socializing
+    with your friends. It was a good day.\n\n1. Main menu"
+  nextStates:
+  - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}

@@ -10,19 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
-  m_Name: 10B Wait what if they
+  m_Name: 17B Stay on the phone
   m_EditorClassIdentifier: 
-  storyText: 'You cannot even get the question completely out of your mouth before
-    he interrupts you.
+  storyText: 'You decide to stay on the phone in case more instructions are necessary.
+    Instead you fall or something. The end.
 
 
-    "Go. Now!"
-
-
-    1. Move to the cubicle.
-
-    2. "But
-    they might see me!"'
+    1. Main menu'
   nextStates:
-  - {fileID: 11400000, guid: ed8b6267dd50f0a4d9927d43e1c352b4, type: 2}
-  - {fileID: 11400000, guid: 436636c9f4f2a44458217f4946020452, type: 2}
+  - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}

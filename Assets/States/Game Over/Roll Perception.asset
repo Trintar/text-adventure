@@ -10,16 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c587cd364d3bc714badf14da7b27a9d9, type: 3}
-  m_Name: 9A How
+  m_Name: Roll Perception
   m_EditorClassIdentifier: 
-  storyText: '"I can guide you but you must do exactly as I say. The cubicle across
-    from you is empty."
+  storyText: 'You don''t. This game isn''t that fancy. You''re dead now. They just
+    came in the room and shot you.
 
 
-    1. Move obediently to the cubicle.
-
-    2. "Wait, what
-    if they see me?"'
+    1. Main menu'
   nextStates:
-  - {fileID: 11400000, guid: 22b9777a64bd83845b86ce45390fa0ff, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 419cc5b24c3f7a94783795aa035011ee, type: 2}
