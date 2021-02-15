@@ -36,4 +36,4 @@ MonoBehaviour:
     knock him down and run past him.'
   nextStates:
   - {fileID: 11400000, guid: 492cfea08eb4ff64fabee36217fd5266, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 2a9b551528560df4088b84024b649b12, type: 2}
